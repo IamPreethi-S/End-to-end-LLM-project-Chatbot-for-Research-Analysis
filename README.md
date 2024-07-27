@@ -1,6 +1,6 @@
 # End-to-End LLM Project - Chatbot for Research Analysis
 
-This project builds an end-to-end LLM solution for equity research analysis, leveraging LangChain for text processing and OpenAI for vector conversion. The project enhances search relevance and precision, improving retrieval QA accuracy by 30%.
+This project builds an end-to-end LLM solution for research analysis, leveraging LangChain for text processing and OpenAI for vector conversion. The project enhances search relevance and precision, improving retrieval QA accuracy by 30%.
 
 ## Overview
 
