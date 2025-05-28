@@ -4,7 +4,7 @@ This project builds an end-to-end LLM solution for research analysis, leveraging
 
 ## Overview
 
-This project uses LangChain for text processing and OpenAI for vector conversion to create a robust equity research analysis tool. The system processes documents, converts them into vectors, and uses a retrieval-augmented generation (RAG) pipeline for precise and relevant answers to user queries.
+This project uses LangChain for text processing and OpenAI for vector conversion to create a robust research analysis tool. The system processes documents, converts them into vectors, and uses a retrieval-augmented generation (RAG) pipeline for precise and relevant answers to user queries.
 
 ## Features
 
